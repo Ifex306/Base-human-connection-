@@ -29,7 +29,7 @@ contract HumanConnectionRegistry {
         
         connections[msg.sender][_peer] = Connection({
             exists: true,
-            timestamp: block.timestamp,
+            timestamp: block.timestamp,54
             metadataURI: _metadataURI
         });
 
