@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-/**
+/**1
  * @title HumanConnectionRegistry
  * @dev A simple registry for human-to-human trust attestations on Base.
  */
